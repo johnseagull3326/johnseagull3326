@@ -1,16 +1,33 @@
-Hi.
----
-I'm a hobbyist java developer in the U.S. who goes by the name of John Seagull.
-I'm decently fluent in Java (learning Kotlin) and I've worked on various small Minecraft Mods as well as pure java applications. 
+<h1 align="center">Hi, I'm John Seagull</h1>
+<div align="center">
+I'm a hobbyist developer in the U.S.
+I'm decently fluent in Java (learning Kotlin) and I've worked on small Java applications for PC, some random experiments in Kotlin, and some Minecraft: Java Edition mods. 
 
 ---
 
-Here are some projects that I am most proud of:
+Here are some of my favorite projects:
 
-- FigManager - a versatile configuration library with rich data types and automatic JSON saving and loading. It also cleanly handles extensions to seamlessly integrate into various java-based platforms.
-- JIF - (JohnSeagull Image Format; great name, I know) a full image codec with a JavaFX interface. It supports lossless RLE compression as well as lossy color subsampling and pixel merging.
-- MoreFood - a Minecraft mod that has become the most popular on my [Modrinth page](https://modrinth.com/user/JohnSeagull).
+**FigManager**  
+A versatile configuration library with rich data types and automatic JSON saving and loading. It also cleanly handles extensions to seamlessly integrate into various java-based platforms.
+
+**JIF - (JohnSeagull Image Format; great name, I know)**  
+A full image codec with a JavaFX interface. It supports lossless RLE compression as well as lossy color subsampling and pixel merging.
+
+Aside from those, here's my [Modrinth page](https://modrinth.com/user/r9AU66Ga), which is where I publish my Minecraft Mods of varying usefulness.
 
 ---
 
-I have done assets and code for [Burgers by Lordjayda](https://github.com/Lordjayda/Burgers) and [Rawlands by MR-Kartoshki](https://github.com/MR-kartoshki/Rawlands)
+<h3>Languages I know:</h3>
+
+**Java** : What I use for most things  
+**Kotlin** : Learning quickly thanks to Java  
+**Batchscript** : I mean it *can* be useful sometimes ...  
+**HTML/CSS** : Not even real languages imo  
+
+---
+
+In terms of collaborative projects, I have done assets as well as code for [Burgers by Lordjayda](https://github.com/Lordjayda/Burgers) and [Rawlands by MR-Kartoshki](https://github.com/MR-kartoshki/Rawlands)
+
+
+
+</div>
