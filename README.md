@@ -27,7 +27,10 @@ Aside from those, here's my [Modrinth page](https://modrinth.com/user/r9AU66Ga),
 
 ---
 
-In terms of collaborative projects, I have done assets as well as code for [Burgers by Lordjayda](https://github.com/Lordjayda/Burgers) and [Rawlands by MR-Kartoshki](https://github.com/MR-kartoshki/Rawlands)
+I have also contributed assets as well as code for [Burgers by Lordjayda](https://github.com/Lordjayda/Burgers) and [Rawlands by MR-Kartoshki](https://github.com/MR-kartoshki/Rawlands)
 
 
 </div>
+
+
+e
