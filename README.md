@@ -17,17 +17,17 @@ Aside from those, here's my [Modrinth page](https://modrinth.com/user/r9AU66Ga),
 
 ---
 
-<h3>Languages I know:</h3>
+<h3>Languages:</h3>
 
 **Java** : What I use for most things  
 **Kotlin** : Learning quickly thanks to Java  
 **Batchscript** : I mean it *can* be useful sometimes ...  
-**HTML/CSS** : Not even real languages imo  
+**HTML/CSS** : . . .
+**Python** : ok you dont need to know python to be a programmer 
 
 ---
 
 In terms of collaborative projects, I have done assets as well as code for [Burgers by Lordjayda](https://github.com/Lordjayda/Burgers) and [Rawlands by MR-Kartoshki](https://github.com/MR-kartoshki/Rawlands)
-
 
 
 </div>
