@@ -22,7 +22,7 @@ Aside from those, here's my [Modrinth page](https://modrinth.com/user/r9AU66Ga),
 **Java** : What I use for most things  
 **Kotlin** : Learning quickly thanks to Java  
 **Batchscript** : I mean it *can* be useful sometimes ...  
-**HTML/CSS** : . . .
+**HTML/CSS** : . . .  
 **Python** : ok you dont need to know python to be a programmer 
 
 ---
