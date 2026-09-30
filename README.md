@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1>Hi, I'm John Seagull</h1>
 
-<!--
-**johnseagull3326/johnseagull3326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a hobbyist developer in the U.S.
+I'm decently fluent in Java (learning Kotlin) and I've worked on small Java applications for PC, some random experiments in Kotlin, and some Minecraft: Java Edition mods. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my favorite projects:
+
+**FigManager**  
+A versatile configuration library with rich data types and automatic JSON saving and loading. It also cleanly handles extensions to seamlessly integrate into various java-based platforms.
+
+**JIF - (JohnSeagull Image Format; great name, I know)**  
+A full image codec with a JavaFX interface. It supports lossless RLE compression as well as lossy color subsampling and pixel merging.
+
+Aside from those, here's my [Modrinth page](https://modrinth.com/user/r9AU66Ga), which is where I publish my Minecraft Mods of varying usefulness.
+
+---
+
+<h3>Languages:</h3>
+
+**Java** : What I use for most things  
+**Kotlin** : Learning quickly thanks to Java  
+**Batchscript** : I mean it *can* be useful sometimes ...  
+**HTML/CSS** : . . .  
+**Python** : ok you dont need to know python to be a programmer 
+
+---
+
+e
