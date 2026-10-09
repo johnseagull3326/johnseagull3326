@@ -27,4 +27,4 @@ Aside from those, here's my [Modrinth page](https://modrinth.com/user/r9AU66Ga),
 
 ---
 
-I also have some (one) soundfonts in a pinned repo (Warning, they are not very good...)
+I also have some (one) soundfonts in the pinned repo that I made myself.
