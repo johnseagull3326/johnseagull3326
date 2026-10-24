@@ -23,7 +23,7 @@ Aside from those, here's my [Modrinth page](https://modrinth.com/user/r9AU66Ga),
 **Kotlin** : Learning quickly thanks to Java  
 **Batchscript** : I mean it *can* be useful sometimes ...  
 **JavaScript** : just enough to make a website go  
-**HTML/CSS** : not real languages but ok
+**HTML/CSS** : not real languages but ok. 
 **TI-BASIC** : i can make any calculator bend to my will 
 
 ---
