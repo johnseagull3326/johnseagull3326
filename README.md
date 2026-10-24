@@ -22,9 +22,9 @@ Aside from those, here's my [Modrinth page](https://modrinth.com/user/r9AU66Ga),
 **Java** : What I use for most things  
 **Kotlin** : Learning quickly thanks to Java  
 **Batchscript** : I mean it *can* be useful sometimes ...  
-**JavaScript** : getting back into it...  
-**HTML/CSS** : . . .  
-**Python** : ok you dont need to know python to be a programmer 
+**JavaScript** : just enough to make a website go  
+**HTML/CSS** : not real languages but ok
+**TI-BASIC** : i can make any calculator bend to my will 
 
 ---
 
